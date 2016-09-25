@@ -47,7 +47,7 @@ I Xcode 7 was buggy, couldnt link viewcontroller with custome class
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2016 Jose Villanueva
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
