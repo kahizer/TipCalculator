@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
-
+* [X] Added Splash screen for when the app is launched for the first time
 * [X] Added Adavanced section, will be visible once swtich is set on
 * [X] Added custome percentage for values different than the listed ones
 * [X] Added split bill options to devide the bill by specified nunber
@@ -36,6 +36,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/aGaKID2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Splash screen
+<img src='http://i.imgur.com/etSuWDY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
